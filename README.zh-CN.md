@@ -8,7 +8,7 @@
 
 ![Ranked by GitHub stars](https://img.shields.io/badge/ranked%20by-GitHub%20stars-orange?style=for-the-badge) ![GitHub stars](https://img.shields.io/badge/%E2%AD%90%20stars-repo-black?style=for-the-badge) ![License](https://img.shields.io/badge/license-CC0-0a7bbb?style=for-the-badge)
 
-![条目](https://img.shields.io/badge/%E6%9D%A1%E7%9B%AE-36-blueviolet?style=for-the-badge) ![总 Stars](https://img.shields.io/badge/%E6%80%BB%20Stars-579.3k-gold?style=for-the-badge) ![更新于](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E4%BA%8E-2026--10--24-brightgreen?style=for-the-badge)
+![条目](https://img.shields.io/badge/%E6%9D%A1%E7%9B%AE-36-blueviolet?style=for-the-badge) ![总 Stars](https://img.shields.io/badge/%E6%80%BB%20Stars-579.4k-gold?style=for-the-badge) ![更新于](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E4%BA%8E-2026--10--27-brightgreen?style=for-the-badge)
 
 [English](README.md) · **简体中文**
 
@@ -45,7 +45,7 @@
 | 1 | [**getify/You-Dont-Know-JS**](https://github.com/getify/You-Dont-Know-JS) | 184.8k | — | 2026-02-15 | A book series (2 published editions) on the JS language. |
 | 2 | [**denysdovhan/wtfjs**](https://github.com/denysdovhan/wtfjs) | 37.7k | JavaScript | 2026-10-05 | 🤪 A list of funny and tricky JavaScript examples |
 | 3 | [**getify/Functional-Light-JS**](https://github.com/getify/Functional-Light-JS) | 16.7k | JavaScript | 2023-12-26 | Pragmatic, balanced FP in JavaScript. @FLJSBook on twitter. |
-| 4 | [**gibbok/typescript-book**](https://github.com/gibbok/typescript-book) | 10.4k | TypeScript | 2026-10-23 | The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source. |
+| 4 | [**gibbok/typescript-book**](https://github.com/gibbok/typescript-book) | 10.4k | TypeScript | 2026-10-26 | The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source. |
 | 5 | [**azat-io/you-dont-know-js-ru**](https://github.com/azat-io/you-dont-know-js-ru) | 8.8k | — | 2026-06-06 | 📚 Russian translation of "You Don't Know JS" book series |
 | 6 | [**thejsway/thejsway**](https://github.com/thejsway/thejsway) | 7.9k | CSS | 2025-01-30 | The JavaScript Way book |
 | 7 | [**amejiarosario/dsa.js-data-structures-algorithms-javascript**](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript) | 7.8k | JavaScript | 2024-01-30 | 🥞Data Structures and Algorithms explained and implemented in JavaScript + eBook |
@@ -101,9 +101,9 @@
 | 3 | [**verekia/js-stack-from-scratch**](https://github.com/verekia/js-stack-from-scratch) | 20.1k | JavaScript | 2024-06-05 | 🛠️⚡ Step-by-step tutorial to build a modern JavaScript stack. |
 | 4 | [**nswbmw/N-blog**](https://github.com/nswbmw/N-blog) | 15.4k | JavaScript | 2023-04-26 | 《一起学 Node.js》 |
 | 5 | [**javascript-tutorial/zh.javascript.info**](https://github.com/javascript-tutorial/zh.javascript.info) | 10.8k | HTML | 2026-03-24 | 现代 JavaScript 教程（The Modern JavaScript Tutorial），以最新的 ECMAScript 规范为基准，通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关… |
-| 6 | [**xcatliu/typescript-tutorial**](https://github.com/xcatliu/typescript-tutorial) | 10.7k | TypeScript | 2024-08-18 | TypeScript 入门教程 |
+| 6 | [**xcatliu/typescript-tutorial**](https://github.com/xcatliu/typescript-tutorial) | 10.8k | TypeScript | 2024-08-18 | TypeScript 入门教程 |
 | 7 | [**mouredev/hello-javascript**](https://github.com/mouredev/hello-javascript) | 8.4k | JavaScript | 2025-06-10 | Curso para aprender el lenguaje de programación JavaScript desde cero y para principiantes. +120 lecciones, 1… |
-| 8 | [**javascript-tutorial/ru.javascript.info**](https://github.com/javascript-tutorial/ru.javascript.info) | 4.1k | HTML | 2026-10-19 | Современный учебник JavaScript |
+| 8 | [**javascript-tutorial/ru.javascript.info**](https://github.com/javascript-tutorial/ru.javascript.info) | 4.1k | HTML | 2026-10-26 | Современный учебник JavaScript |
 | 9 | [**tyroprogrammer/learn-react-app**](https://github.com/tyroprogrammer/learn-react-app) | 3.8k | JavaScript | 2026-02-04 | Application that will help you learn React fundamentals. Install this application locally - there's tutorial,… |
 | 10 | [**js-primer/js-primer**](https://github.com/js-primer/js-primer) | 2.4k | JavaScript | 2026-10-21 | :book: JavaScript Primer - 迷わないための入門書 |
 
@@ -127,6 +127,6 @@
 
 <div align="center">
 
-<sub>自动生成 · 定时刷新 · 按 GitHub Stars 排名 · 2026-10-24</sub>
+<sub>自动生成 · 定时刷新 · 按 GitHub Stars 排名 · 2026-10-27</sub>
 
 </div>
