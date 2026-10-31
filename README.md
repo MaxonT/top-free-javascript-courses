@@ -8,7 +8,7 @@
 
 ![Ranked by GitHub stars](https://img.shields.io/badge/ranked%20by-GitHub%20stars-orange?style=for-the-badge) ![GitHub stars](https://img.shields.io/badge/%E2%AD%90%20stars-repo-black?style=for-the-badge) ![License](https://img.shields.io/badge/license-CC0-0a7bbb?style=for-the-badge)
 
-![entries](https://img.shields.io/badge/entries-36-blueviolet?style=for-the-badge) ![total stars](https://img.shields.io/badge/total%20stars-579.4k-gold?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--10--27-brightgreen?style=for-the-badge)
+![entries](https://img.shields.io/badge/entries-36-blueviolet?style=for-the-badge) ![total stars](https://img.shields.io/badge/total%20stars-579.4k-gold?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--10--30-brightgreen?style=for-the-badge)
 
 **English** · [简体中文](README.zh-CN.md)
 
@@ -45,7 +45,7 @@
 | 1 | [**getify/You-Dont-Know-JS**](https://github.com/getify/You-Dont-Know-JS) | 184.8k | — | 2026-02-15 | A book series (2 published editions) on the JS language. |
 | 2 | [**denysdovhan/wtfjs**](https://github.com/denysdovhan/wtfjs) | 37.7k | JavaScript | 2026-10-05 | 🤪 A list of funny and tricky JavaScript examples |
 | 3 | [**getify/Functional-Light-JS**](https://github.com/getify/Functional-Light-JS) | 16.7k | JavaScript | 2023-12-26 | Pragmatic, balanced FP in JavaScript. @FLJSBook on twitter. |
-| 4 | [**gibbok/typescript-book**](https://github.com/gibbok/typescript-book) | 10.4k | TypeScript | 2026-10-26 | The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source. |
+| 4 | [**gibbok/typescript-book**](https://github.com/gibbok/typescript-book) | 10.4k | TypeScript | 2026-10-28 | The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source. |
 | 5 | [**azat-io/you-dont-know-js-ru**](https://github.com/azat-io/you-dont-know-js-ru) | 8.8k | — | 2026-06-06 | 📚 Russian translation of "You Don't Know JS" book series |
 | 6 | [**thejsway/thejsway**](https://github.com/thejsway/thejsway) | 7.9k | CSS | 2025-01-30 | The JavaScript Way book |
 | 7 | [**amejiarosario/dsa.js-data-structures-algorithms-javascript**](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript) | 7.8k | JavaScript | 2024-01-30 | 🥞Data Structures and Algorithms explained and implemented in JavaScript + eBook |
@@ -127,6 +127,6 @@ This list is collected from GitHub, deduplicated, link-checked and ranked by sta
 
 <div align="center">
 
-<sub>Auto-generated · refreshed on a schedule · ranked by GitHub stars · 2026-10-27</sub>
+<sub>Auto-generated · refreshed on a schedule · ranked by GitHub stars · 2026-10-30</sub>
 
 </div>
